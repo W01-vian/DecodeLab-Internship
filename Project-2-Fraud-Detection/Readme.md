@@ -25,6 +25,7 @@ python Project2.py
 |---------------------|-----------|--------|-------|---------|
 | Logistic Regression | 0.82      | 0.78   | 0.80  | 0.88    |
 | **Random Forest**   | **0.88**  | **0.85**| **0.86**| **0.92** |
+
 *Best model: Random Forest* – higher recall (catches more fraud).
 ---
 ## 🔍 Key Features
