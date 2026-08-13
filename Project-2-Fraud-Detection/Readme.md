@@ -1,12 +1,12 @@
 # 🚀 Project 2: Fraud Detection Pipeline
 
-**DecodeLabs – Batch 2026**  
-*Data Science Intern – Javeria Faisal*
+DecodeLabs – Batch 2026  
+Data Science Intern – Javeria Faisal
 ---
 ## 📌 Overview
 
-Build a **fraud detection** model for imbalanced transaction data.  
-Use **SMOTE** to handle class imbalance and evaluate with **Precision, Recall, F1, ROC‑AUC** – never Accuracy.
+Build a *fraud detection* model for imbalanced transaction data.  
+Use *SMOTE* to handle class imbalance and evaluate with *Precision, Recall, F1, ROC‑AUC* – never Accuracy.
 ---
 ## 📦 Requirements
 
