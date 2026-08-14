@@ -13,8 +13,6 @@ This pipeline ingests raw customer reviews, scrubs them clean, converts words in
 - Python 3.8+  
 - pandas, numpy, matplotlib, seaborn  
 - scikit‑learn (TfidfVectorizer, Naive Bayes, cross‑validation)  
-- NLTK (tokenization, POS tagging, lemmatization) – *optional; fallback version uses pure Python*
-
 ---
 
 ## ⚙️ Pipeline (5 Steps to Mathematical Certainty)
