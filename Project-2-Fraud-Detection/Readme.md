@@ -1,8 +1,4 @@
 # 🚀 Project 2: Fraud Detection Pipeline
-
-**DecodeLabs – Batch 2026**  
-*Data Science Intern – Javeria Faisal*
-
 ---
 
 ## 📌 The Vibe
