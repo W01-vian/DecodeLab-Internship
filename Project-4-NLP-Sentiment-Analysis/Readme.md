@@ -65,8 +65,7 @@ ROC-AUC:   0.95   ← Model separates classes excellently.
 
 ## 👩‍💻 Author
 
-**Javeria Faisal** – Data Science Intern @ DecodeLabs  
+Javeria Faisal
+Data Science Intern @ DecodeLabs  
 ---
 
-📌 **Project 4 – Optional Mastery Phase**  
-*“You’ve earned your certificate – this is the cherry on top.”*
