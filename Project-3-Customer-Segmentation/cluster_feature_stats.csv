@@ -1,0 +1,6 @@
+,Recency,Recency,Recency,Frequency,Frequency,Frequency,Monetary,Monetary,Monetary,AvgOrderValue,AvgOrderValue,AvgOrderValue,AvgQuantity,AvgQuantity,AvgQuantity,AvgItemsInCart,AvgItemsInCart,AvgItemsInCart,DiscountRate,DiscountRate,DiscountRate,DeliveryRate,DeliveryRate,DeliveryRate,MonetaryPerVisit,MonetaryPerVisit,MonetaryPerVisit,UniqueProducts,UniqueProducts,UniqueProducts,ItemsPerOrder,ItemsPerOrder,ItemsPerOrder,AvgPricePerItem,AvgPricePerItem,AvgPricePerItem
+,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count
+Cluster,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,448.99,265.58,760,1.0,0.05,760,542.06,327.71,760,540.83,325.45,760,2.35,1.28,760,4.83,2.18,760,0.74,0.44,760,0.21,0.41,760,540.83,325.45,760,1.0,0.0,760,2.44,1.4,760,275.94,181.37,760
+1,493.07,264.62,421,1.0,0.05,421,1989.67,582.95,421,1986.28,582.06,421,4.03,0.88,421,6.68,1.94,421,0.74,0.44,421,0.17,0.38,421,1986.28,582.06,421,1.0,0.0,421,1.7,0.51,421,503.85,126.91,421
+2,253.5,154.37,8,2.0,0.0,8,1843.96,1628.58,8,921.98,814.29,8,3.06,0.94,8,5.25,1.63,8,0.69,0.26,8,0.06,0.18,8,921.98,814.29,8,2.0,0.0,8,1.71,0.27,8,278.37,158.4,8
