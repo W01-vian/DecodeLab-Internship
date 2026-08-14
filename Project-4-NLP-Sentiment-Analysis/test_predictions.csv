@@ -1,0 +1,45 @@
+text,true_sentiment,predicted_sentiment,probability_positive
+thi product absolutely amaz work perfectly,1,1,0.9887674527128384
+excellent service fast delivery,1,1,0.9924906624136295
+excellent service fast delivery,1,1,0.9924906624136295
+hate thi item very poor quality,0,0,0.03186571821225911
+thi product absolutely amaz work perfectly,1,1,0.9887674527128384
+love thi item exceed expectation,1,1,0.9752627851422777
+disappoint service delivery,0,0,0.060493946064291544
+thi product absolutely amaz work perfectly,1,1,0.9887674527128384
+love thi item exceed expectation,1,1,0.9752627851422777
+hate thi item very poor quality,0,0,0.03186571821225911
+hate thi item very poor quality,0,0,0.03186571821225911
+excellent service fast delivery,1,1,0.9924906624136295
+great quality highly recommend to everyone,1,1,0.9968026322476945
+not good at all,0,0,0.012271353949778588
+very satisfi purchase,1,1,0.969712462119054
+disappoint service delivery,0,0,0.060493946064291544
+not worth price poor build,0,0,0.003339901767885912
+excellent service fast delivery,1,1,0.9924906624136295
+hate thi item very poor quality,0,0,0.03186571821225911
+disappoint service delivery,0,0,0.060493946064291544
+disappoint service delivery,0,0,0.060493946064291544
+hate thi item very poor quality,0,0,0.03186571821225911
+disappoint service delivery,0,0,0.060493946064291544
+disappoint service delivery,0,0,0.060493946064291544
+thi product terrible not work at all,0,0,0.004816575488003769
+very satisfi purchase,1,1,0.969712462119054
+great quality highly recommend to everyone,1,1,0.9968026322476945
+very satisfi purchase,1,1,0.969712462119054
+hate thi item very poor quality,0,0,0.03186571821225911
+very satisfi purchase,1,1,0.969712462119054
+very satisfi purchase,1,1,0.969712462119054
+disappoint service delivery,0,0,0.060493946064291544
+thi product absolutely amaz work perfectly,1,1,0.9887674527128384
+not bad better,1,1,0.9297612780129171
+waste money not buy thi,0,0,0.004882203336640305
+not worth price poor build,0,0,0.003339901767885912
+hate thi item very poor quality,0,0,0.03186571821225911
+not bad better,1,1,0.9297612780129171
+excellent service fast delivery,1,1,0.9924906624136295
+not good at all,0,0,0.012271353949778588
+not worth price poor build,0,0,0.003339901767885912
+not bad better,1,1,0.9297612780129171
+love thi item exceed expectation,1,1,0.9752627851422777
+not good at all,0,0,0.012271353949778588
