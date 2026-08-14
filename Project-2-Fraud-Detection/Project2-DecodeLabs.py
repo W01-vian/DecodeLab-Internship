@@ -26,7 +26,7 @@ print("=" * 80)
 print("PROJECT 2: FRAUD DETECTION PIPELINE")
 print("=" * 80)
 
-# STEP 1: DATA LOADING - CORRECTED PATH
+# STEP 1: DATA LOADING
 print("\n" + "=" * 80)
 print("STEP 1: DATA LOADING")
 print("=" * 80)
