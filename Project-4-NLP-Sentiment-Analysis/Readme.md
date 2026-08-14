@@ -38,10 +38,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn nltk
 python Project4-DecodeLabs.py
 ```
 
-> 💡 **No NLTK?** Use the fallback script – pure Python tokenizer + stemmer.
-
----
-
 ## 📦 Outputs
 
 | File | Description |
@@ -65,7 +61,7 @@ ROC-AUC:   0.95   ← Model separates classes excellently.
 
 ## 👩‍💻 Author
 
-Javeria Faisal
-Data Science Intern @ DecodeLabs  
+- Javeria Faisal
+- Data Science Intern @ DecodeLabs  
 ---
 
